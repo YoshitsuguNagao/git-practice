@@ -1,0 +1,3 @@
+Name: Yoshitsugu Nagao
+Age: 30
+Favorite Color: red
